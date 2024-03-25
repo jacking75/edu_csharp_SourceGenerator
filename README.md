@@ -12,8 +12,10 @@
   
   
 ## 연습
+- [(일어) 소스 생성기 사용하기](https://qiita.com/dsyuuto/items/4c13cc2234980a906863 )
+- [(일어) VS2022을 사용한 Source Generator 입문](https://zenn.dev/mkmonaka/articles/8b9c1a87e35313 )
 - [(일어) Source Generator를 좀 더 간단하게 사용하기](https://qiita.com/sator_imaging/items/d13d0969a9694c29b366 )
-- [(일어) .NET 6에서 C# Incremental Source Generator 개발 방법](https://zenn.dev/pcysl5edgo/articles/6d9be0dd99c008 )
+- [(일어) .NET 6에서 C# Incremental Source Generator 개발 입문](https://zenn.dev/pcysl5edgo/articles/6d9be0dd99c008 )
 - [ufcpp/TextTemplateSourceGenerator](https://github.com/ufcpp/TextTemplateSourceGenerator )
 - [New C# Source Generator Samples](https://devblogs.microsoft.com/dotnet/new-c-source-generator-samples/ )
 - [소스 생성기 만들기 - 1부 증분 생성기 만들기](https://forum.dotnetdev.kr/t/topic/2920 )
@@ -30,13 +32,10 @@
 - [(일어) IncrementalSourceGenerator 개발&디버그 방법](https://qiita.com/WiZLite/items/48f37278cf13be899e40 )
 - [(일어) Incremantal SourceGenerator 프로젝트 만드는 방법](https://qiita.com/amenone_games/items/762cbea245f95b212cfa )
 - [(일어) Decorator 패턴을 Source Generator로 만들었더니 편리하였다](https://qiita.com/kwhrkzk/items/f0ef8959632348d98005 )
+- [(일어) C# Source Generator 로 장기의 수 생성을 생성하여 고속화하기](https://zenn.dev/tomori_k/articles/f2bcaf312bc946 )
 - [(일어) Source Generator 에서 C# 소스 코드에서 PlantUML 클래스 도를 생성하기](https://qiita.com/pierusan2010/items/cdd628f202a9767cf65d )
     
         
-  
-## IDE - Visual Studio
-- [(일어) VS2022을 사용한 Source Generator 입문](https://zenn.dev/mkmonaka/articles/8b9c1a87e35313 )
-  
    
 ## IDE - Rider
 - [(일어) Rider 에서 Source Generator 를 사용한 툴을 만드는 흐름 소개](https://qiita.com/Tanakancolle/items/b12c48e0cf0fe78af2ad )
