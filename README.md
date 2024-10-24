@@ -7,7 +7,7 @@
 - [(일어) 2022년(2024년) C#(Incremental) Source Generator 개발 방법](https://neue.cc/2022/12/16_IncrementalSourceGenerator.html )    
 - [(일어) IncrementalSourceGenerator 개발&디버그 방법](https://qiita.com/WiZLite/items/48f37278cf13be899e40 )
 - [(일어) Incremantal SourceGenerator 프로젝트 만드는 방법](https://qiita.com/amenone_games/items/762cbea245f95b212cfa )
-  
+- [(일어) Source Generator 개발 튜토리얼](https://developer.aiming-inc.com/csharp/source-generator-tutorial )  
     
     
 ## 활용
